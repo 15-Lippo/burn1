@@ -1,0 +1,7 @@
+Improve wallet connection flow and add wallet management functionality
+
+Implement wallet selection modal, disconnect, and chain switch in web3-context.tsx and wallet-button.tsx.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: f73173c0-bf0a-4ac2-9b77-bd80163c2ff6
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/c6e0c469-d416-47ae-90fd-91cdb77866f6/84ac3042-6351-4e8c-810c-b535b31ef4b9.jpg
